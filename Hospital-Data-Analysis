@@ -1,0 +1,27 @@
+# Hospital Data Analysis Project
+
+## Project Overview
+
+This project focuses on analyzing hospital data to discover useful insights about patient demographics, hospital visits, departments, appointments, diagnoses and treatments.
+
+## Tools Used
+
+* Python
+* SQL
+* Microsoft Excel
+* Power BI
+
+## Project Objectives
+
+1. Analyze patient demographics and hospital visits.
+2. Identify the department with the highest patient visits.
+3. Analyze appointment completion and cancellation rates.
+4. Identify common diagnoses and treatment types.
+
+## Project Files
+
+The folder contains the dataset, Python analysis, SQL queries and Power BI dashboard.
+
+## Project Goal
+
+To use data analysis to discover meaningful insights and support better hospital decision-making.
